@@ -12,8 +12,8 @@ public class DB1 {
 			String driver = "org.postgresql.Driver";
 			Class.forName("org.postgresql.Driver");
 			String url = "jdbc:postgresql://192.168.1.17/cse_db24";
-			String username= "24bcsg37";
-			String password = "24bcsg37";
+			String username= "24bcsa09";
+			String password = "24bcsa09";
 			con = DriverManager.getConnection(url,username,password);
 			
 		}
